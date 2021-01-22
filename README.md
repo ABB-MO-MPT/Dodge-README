@@ -9,6 +9,8 @@
 | EdwinNordicSDK | Modified NRF5 SDK | https://github.com/ABB-MO-MPT/EdwinNordicSDK |
 | EdwinSensorFWOld | Edwin firmware old version | https://github.com/ABB-MO-MPT/EdwinSensorFWOld |
 | EdwinSensorFW | Edwin firmware | https://github.com/ABB-MO-MPT/EdwinSensorFW |
+| OQS | Oil-Quality Sensor firmware | https://github.com/ABB-MO-MPT/OQS |
+
 
 
 ## Applications 
