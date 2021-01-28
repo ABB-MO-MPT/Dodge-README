@@ -21,6 +21,7 @@
 | ASPL |  | https://github.com/ABB-MO-MPT/ASPL |
 | aspl_v1- |  | https://github.com/ABB-MO-MPT/aspl_v1- |
 | cassia-scripts |  | https://github.com/ABB-MO-MPT/cassia-scripts |
+| measurementsAPI |  | https://github.com/ABB-MO-MPT/measurementsAPI |
 | Bearing-fault-detection-scripts |  | https://github.com/ABB-MO-MPT/Bearing-fault-detection-scripts |
 | aspl_bootloader |  | https://github.com/ABB-MO-MPT/aspl_bootloader |
 | EdwinWarrantyReport |  | https://github.com/ABB-MO-MPT/EdwinWarrantyReport |
